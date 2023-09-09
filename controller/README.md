@@ -1,0 +1,1 @@
+DineCraft is a comprehensive restaurant management system built in Go (Golang) to streamline restaurant operations, enhance customer experiences, and optimize your restaurant's performance
